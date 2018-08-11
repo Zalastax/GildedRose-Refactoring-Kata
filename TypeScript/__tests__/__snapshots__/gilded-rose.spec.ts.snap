@@ -1,0 +1,801 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Gilded Rose Aged Brie of quality 0 sellsIn -1 1`] = `
+Item {
+  "name": "Aged Brie",
+  "quality": 2,
+  "sellIn": -2,
+}
+`;
+
+exports[`Gilded Rose Aged Brie of quality 0 sellsIn 0 1`] = `
+Item {
+  "name": "Aged Brie",
+  "quality": 2,
+  "sellIn": -1,
+}
+`;
+
+exports[`Gilded Rose Aged Brie of quality 0 sellsIn 1 1`] = `
+Item {
+  "name": "Aged Brie",
+  "quality": 1,
+  "sellIn": 0,
+}
+`;
+
+exports[`Gilded Rose Aged Brie of quality 0 sellsIn 6 1`] = `
+Item {
+  "name": "Aged Brie",
+  "quality": 1,
+  "sellIn": 5,
+}
+`;
+
+exports[`Gilded Rose Aged Brie of quality 0 sellsIn 11 1`] = `
+Item {
+  "name": "Aged Brie",
+  "quality": 1,
+  "sellIn": 10,
+}
+`;
+
+exports[`Gilded Rose Aged Brie of quality 1 sellsIn -1 1`] = `
+Item {
+  "name": "Aged Brie",
+  "quality": 3,
+  "sellIn": -2,
+}
+`;
+
+exports[`Gilded Rose Aged Brie of quality 1 sellsIn 0 1`] = `
+Item {
+  "name": "Aged Brie",
+  "quality": 3,
+  "sellIn": -1,
+}
+`;
+
+exports[`Gilded Rose Aged Brie of quality 1 sellsIn 1 1`] = `
+Item {
+  "name": "Aged Brie",
+  "quality": 2,
+  "sellIn": 0,
+}
+`;
+
+exports[`Gilded Rose Aged Brie of quality 1 sellsIn 6 1`] = `
+Item {
+  "name": "Aged Brie",
+  "quality": 2,
+  "sellIn": 5,
+}
+`;
+
+exports[`Gilded Rose Aged Brie of quality 1 sellsIn 11 1`] = `
+Item {
+  "name": "Aged Brie",
+  "quality": 2,
+  "sellIn": 10,
+}
+`;
+
+exports[`Gilded Rose Aged Brie of quality 49 sellsIn -1 1`] = `
+Item {
+  "name": "Aged Brie",
+  "quality": 50,
+  "sellIn": -2,
+}
+`;
+
+exports[`Gilded Rose Aged Brie of quality 49 sellsIn 0 1`] = `
+Item {
+  "name": "Aged Brie",
+  "quality": 50,
+  "sellIn": -1,
+}
+`;
+
+exports[`Gilded Rose Aged Brie of quality 49 sellsIn 1 1`] = `
+Item {
+  "name": "Aged Brie",
+  "quality": 50,
+  "sellIn": 0,
+}
+`;
+
+exports[`Gilded Rose Aged Brie of quality 49 sellsIn 6 1`] = `
+Item {
+  "name": "Aged Brie",
+  "quality": 50,
+  "sellIn": 5,
+}
+`;
+
+exports[`Gilded Rose Aged Brie of quality 49 sellsIn 11 1`] = `
+Item {
+  "name": "Aged Brie",
+  "quality": 50,
+  "sellIn": 10,
+}
+`;
+
+exports[`Gilded Rose Aged Brie of quality 50 sellsIn -1 1`] = `
+Item {
+  "name": "Aged Brie",
+  "quality": 50,
+  "sellIn": -2,
+}
+`;
+
+exports[`Gilded Rose Aged Brie of quality 50 sellsIn 0 1`] = `
+Item {
+  "name": "Aged Brie",
+  "quality": 50,
+  "sellIn": -1,
+}
+`;
+
+exports[`Gilded Rose Aged Brie of quality 50 sellsIn 1 1`] = `
+Item {
+  "name": "Aged Brie",
+  "quality": 50,
+  "sellIn": 0,
+}
+`;
+
+exports[`Gilded Rose Aged Brie of quality 50 sellsIn 6 1`] = `
+Item {
+  "name": "Aged Brie",
+  "quality": 50,
+  "sellIn": 5,
+}
+`;
+
+exports[`Gilded Rose Aged Brie of quality 50 sellsIn 11 1`] = `
+Item {
+  "name": "Aged Brie",
+  "quality": 50,
+  "sellIn": 10,
+}
+`;
+
+exports[`Gilded Rose Backstage passes to a TAFKAL80ETC concert of quality 0 sellsIn -1 1`] = `
+Item {
+  "name": "Backstage passes to a TAFKAL80ETC concert",
+  "quality": 0,
+  "sellIn": -2,
+}
+`;
+
+exports[`Gilded Rose Backstage passes to a TAFKAL80ETC concert of quality 0 sellsIn 0 1`] = `
+Item {
+  "name": "Backstage passes to a TAFKAL80ETC concert",
+  "quality": 0,
+  "sellIn": -1,
+}
+`;
+
+exports[`Gilded Rose Backstage passes to a TAFKAL80ETC concert of quality 0 sellsIn 1 1`] = `
+Item {
+  "name": "Backstage passes to a TAFKAL80ETC concert",
+  "quality": 3,
+  "sellIn": 0,
+}
+`;
+
+exports[`Gilded Rose Backstage passes to a TAFKAL80ETC concert of quality 0 sellsIn 6 1`] = `
+Item {
+  "name": "Backstage passes to a TAFKAL80ETC concert",
+  "quality": 2,
+  "sellIn": 5,
+}
+`;
+
+exports[`Gilded Rose Backstage passes to a TAFKAL80ETC concert of quality 0 sellsIn 11 1`] = `
+Item {
+  "name": "Backstage passes to a TAFKAL80ETC concert",
+  "quality": 1,
+  "sellIn": 10,
+}
+`;
+
+exports[`Gilded Rose Backstage passes to a TAFKAL80ETC concert of quality 1 sellsIn -1 1`] = `
+Item {
+  "name": "Backstage passes to a TAFKAL80ETC concert",
+  "quality": 0,
+  "sellIn": -2,
+}
+`;
+
+exports[`Gilded Rose Backstage passes to a TAFKAL80ETC concert of quality 1 sellsIn 0 1`] = `
+Item {
+  "name": "Backstage passes to a TAFKAL80ETC concert",
+  "quality": 0,
+  "sellIn": -1,
+}
+`;
+
+exports[`Gilded Rose Backstage passes to a TAFKAL80ETC concert of quality 1 sellsIn 1 1`] = `
+Item {
+  "name": "Backstage passes to a TAFKAL80ETC concert",
+  "quality": 4,
+  "sellIn": 0,
+}
+`;
+
+exports[`Gilded Rose Backstage passes to a TAFKAL80ETC concert of quality 1 sellsIn 6 1`] = `
+Item {
+  "name": "Backstage passes to a TAFKAL80ETC concert",
+  "quality": 3,
+  "sellIn": 5,
+}
+`;
+
+exports[`Gilded Rose Backstage passes to a TAFKAL80ETC concert of quality 1 sellsIn 11 1`] = `
+Item {
+  "name": "Backstage passes to a TAFKAL80ETC concert",
+  "quality": 2,
+  "sellIn": 10,
+}
+`;
+
+exports[`Gilded Rose Backstage passes to a TAFKAL80ETC concert of quality 49 sellsIn -1 1`] = `
+Item {
+  "name": "Backstage passes to a TAFKAL80ETC concert",
+  "quality": 0,
+  "sellIn": -2,
+}
+`;
+
+exports[`Gilded Rose Backstage passes to a TAFKAL80ETC concert of quality 49 sellsIn 0 1`] = `
+Item {
+  "name": "Backstage passes to a TAFKAL80ETC concert",
+  "quality": 0,
+  "sellIn": -1,
+}
+`;
+
+exports[`Gilded Rose Backstage passes to a TAFKAL80ETC concert of quality 49 sellsIn 1 1`] = `
+Item {
+  "name": "Backstage passes to a TAFKAL80ETC concert",
+  "quality": 50,
+  "sellIn": 0,
+}
+`;
+
+exports[`Gilded Rose Backstage passes to a TAFKAL80ETC concert of quality 49 sellsIn 6 1`] = `
+Item {
+  "name": "Backstage passes to a TAFKAL80ETC concert",
+  "quality": 50,
+  "sellIn": 5,
+}
+`;
+
+exports[`Gilded Rose Backstage passes to a TAFKAL80ETC concert of quality 49 sellsIn 11 1`] = `
+Item {
+  "name": "Backstage passes to a TAFKAL80ETC concert",
+  "quality": 50,
+  "sellIn": 10,
+}
+`;
+
+exports[`Gilded Rose Backstage passes to a TAFKAL80ETC concert of quality 50 sellsIn -1 1`] = `
+Item {
+  "name": "Backstage passes to a TAFKAL80ETC concert",
+  "quality": 0,
+  "sellIn": -2,
+}
+`;
+
+exports[`Gilded Rose Backstage passes to a TAFKAL80ETC concert of quality 50 sellsIn 0 1`] = `
+Item {
+  "name": "Backstage passes to a TAFKAL80ETC concert",
+  "quality": 0,
+  "sellIn": -1,
+}
+`;
+
+exports[`Gilded Rose Backstage passes to a TAFKAL80ETC concert of quality 50 sellsIn 1 1`] = `
+Item {
+  "name": "Backstage passes to a TAFKAL80ETC concert",
+  "quality": 50,
+  "sellIn": 0,
+}
+`;
+
+exports[`Gilded Rose Backstage passes to a TAFKAL80ETC concert of quality 50 sellsIn 6 1`] = `
+Item {
+  "name": "Backstage passes to a TAFKAL80ETC concert",
+  "quality": 50,
+  "sellIn": 5,
+}
+`;
+
+exports[`Gilded Rose Backstage passes to a TAFKAL80ETC concert of quality 50 sellsIn 11 1`] = `
+Item {
+  "name": "Backstage passes to a TAFKAL80ETC concert",
+  "quality": 50,
+  "sellIn": 10,
+}
+`;
+
+exports[`Gilded Rose Conjured Mana Cake of quality 0 sellsIn -1 1`] = `
+Item {
+  "name": "Conjured Mana Cake",
+  "quality": 0,
+  "sellIn": -2,
+}
+`;
+
+exports[`Gilded Rose Conjured Mana Cake of quality 0 sellsIn 0 1`] = `
+Item {
+  "name": "Conjured Mana Cake",
+  "quality": 0,
+  "sellIn": -1,
+}
+`;
+
+exports[`Gilded Rose Conjured Mana Cake of quality 0 sellsIn 1 1`] = `
+Item {
+  "name": "Conjured Mana Cake",
+  "quality": 0,
+  "sellIn": 0,
+}
+`;
+
+exports[`Gilded Rose Conjured Mana Cake of quality 0 sellsIn 6 1`] = `
+Item {
+  "name": "Conjured Mana Cake",
+  "quality": 0,
+  "sellIn": 5,
+}
+`;
+
+exports[`Gilded Rose Conjured Mana Cake of quality 0 sellsIn 11 1`] = `
+Item {
+  "name": "Conjured Mana Cake",
+  "quality": 0,
+  "sellIn": 10,
+}
+`;
+
+exports[`Gilded Rose Conjured Mana Cake of quality 1 sellsIn -1 1`] = `
+Item {
+  "name": "Conjured Mana Cake",
+  "quality": 0,
+  "sellIn": -2,
+}
+`;
+
+exports[`Gilded Rose Conjured Mana Cake of quality 1 sellsIn 0 1`] = `
+Item {
+  "name": "Conjured Mana Cake",
+  "quality": 0,
+  "sellIn": -1,
+}
+`;
+
+exports[`Gilded Rose Conjured Mana Cake of quality 1 sellsIn 1 1`] = `
+Item {
+  "name": "Conjured Mana Cake",
+  "quality": 0,
+  "sellIn": 0,
+}
+`;
+
+exports[`Gilded Rose Conjured Mana Cake of quality 1 sellsIn 6 1`] = `
+Item {
+  "name": "Conjured Mana Cake",
+  "quality": 0,
+  "sellIn": 5,
+}
+`;
+
+exports[`Gilded Rose Conjured Mana Cake of quality 1 sellsIn 11 1`] = `
+Item {
+  "name": "Conjured Mana Cake",
+  "quality": 0,
+  "sellIn": 10,
+}
+`;
+
+exports[`Gilded Rose Conjured Mana Cake of quality 49 sellsIn -1 1`] = `
+Item {
+  "name": "Conjured Mana Cake",
+  "quality": 45,
+  "sellIn": -2,
+}
+`;
+
+exports[`Gilded Rose Conjured Mana Cake of quality 49 sellsIn 0 1`] = `
+Item {
+  "name": "Conjured Mana Cake",
+  "quality": 45,
+  "sellIn": -1,
+}
+`;
+
+exports[`Gilded Rose Conjured Mana Cake of quality 49 sellsIn 1 1`] = `
+Item {
+  "name": "Conjured Mana Cake",
+  "quality": 47,
+  "sellIn": 0,
+}
+`;
+
+exports[`Gilded Rose Conjured Mana Cake of quality 49 sellsIn 6 1`] = `
+Item {
+  "name": "Conjured Mana Cake",
+  "quality": 47,
+  "sellIn": 5,
+}
+`;
+
+exports[`Gilded Rose Conjured Mana Cake of quality 49 sellsIn 11 1`] = `
+Item {
+  "name": "Conjured Mana Cake",
+  "quality": 47,
+  "sellIn": 10,
+}
+`;
+
+exports[`Gilded Rose Conjured Mana Cake of quality 50 sellsIn -1 1`] = `
+Item {
+  "name": "Conjured Mana Cake",
+  "quality": 46,
+  "sellIn": -2,
+}
+`;
+
+exports[`Gilded Rose Conjured Mana Cake of quality 50 sellsIn 0 1`] = `
+Item {
+  "name": "Conjured Mana Cake",
+  "quality": 46,
+  "sellIn": -1,
+}
+`;
+
+exports[`Gilded Rose Conjured Mana Cake of quality 50 sellsIn 1 1`] = `
+Item {
+  "name": "Conjured Mana Cake",
+  "quality": 48,
+  "sellIn": 0,
+}
+`;
+
+exports[`Gilded Rose Conjured Mana Cake of quality 50 sellsIn 6 1`] = `
+Item {
+  "name": "Conjured Mana Cake",
+  "quality": 48,
+  "sellIn": 5,
+}
+`;
+
+exports[`Gilded Rose Conjured Mana Cake of quality 50 sellsIn 11 1`] = `
+Item {
+  "name": "Conjured Mana Cake",
+  "quality": 48,
+  "sellIn": 10,
+}
+`;
+
+exports[`Gilded Rose Sulfuras, Hand of Ragnaros of quality 0 sellsIn -1 1`] = `
+Item {
+  "name": "Sulfuras, Hand of Ragnaros",
+  "quality": 0,
+  "sellIn": -1,
+}
+`;
+
+exports[`Gilded Rose Sulfuras, Hand of Ragnaros of quality 0 sellsIn 0 1`] = `
+Item {
+  "name": "Sulfuras, Hand of Ragnaros",
+  "quality": 0,
+  "sellIn": 0,
+}
+`;
+
+exports[`Gilded Rose Sulfuras, Hand of Ragnaros of quality 0 sellsIn 1 1`] = `
+Item {
+  "name": "Sulfuras, Hand of Ragnaros",
+  "quality": 0,
+  "sellIn": 1,
+}
+`;
+
+exports[`Gilded Rose Sulfuras, Hand of Ragnaros of quality 0 sellsIn 6 1`] = `
+Item {
+  "name": "Sulfuras, Hand of Ragnaros",
+  "quality": 0,
+  "sellIn": 6,
+}
+`;
+
+exports[`Gilded Rose Sulfuras, Hand of Ragnaros of quality 0 sellsIn 11 1`] = `
+Item {
+  "name": "Sulfuras, Hand of Ragnaros",
+  "quality": 0,
+  "sellIn": 11,
+}
+`;
+
+exports[`Gilded Rose Sulfuras, Hand of Ragnaros of quality 1 sellsIn -1 1`] = `
+Item {
+  "name": "Sulfuras, Hand of Ragnaros",
+  "quality": 1,
+  "sellIn": -1,
+}
+`;
+
+exports[`Gilded Rose Sulfuras, Hand of Ragnaros of quality 1 sellsIn 0 1`] = `
+Item {
+  "name": "Sulfuras, Hand of Ragnaros",
+  "quality": 1,
+  "sellIn": 0,
+}
+`;
+
+exports[`Gilded Rose Sulfuras, Hand of Ragnaros of quality 1 sellsIn 1 1`] = `
+Item {
+  "name": "Sulfuras, Hand of Ragnaros",
+  "quality": 1,
+  "sellIn": 1,
+}
+`;
+
+exports[`Gilded Rose Sulfuras, Hand of Ragnaros of quality 1 sellsIn 6 1`] = `
+Item {
+  "name": "Sulfuras, Hand of Ragnaros",
+  "quality": 1,
+  "sellIn": 6,
+}
+`;
+
+exports[`Gilded Rose Sulfuras, Hand of Ragnaros of quality 1 sellsIn 11 1`] = `
+Item {
+  "name": "Sulfuras, Hand of Ragnaros",
+  "quality": 1,
+  "sellIn": 11,
+}
+`;
+
+exports[`Gilded Rose Sulfuras, Hand of Ragnaros of quality 49 sellsIn -1 1`] = `
+Item {
+  "name": "Sulfuras, Hand of Ragnaros",
+  "quality": 49,
+  "sellIn": -1,
+}
+`;
+
+exports[`Gilded Rose Sulfuras, Hand of Ragnaros of quality 49 sellsIn 0 1`] = `
+Item {
+  "name": "Sulfuras, Hand of Ragnaros",
+  "quality": 49,
+  "sellIn": 0,
+}
+`;
+
+exports[`Gilded Rose Sulfuras, Hand of Ragnaros of quality 49 sellsIn 1 1`] = `
+Item {
+  "name": "Sulfuras, Hand of Ragnaros",
+  "quality": 49,
+  "sellIn": 1,
+}
+`;
+
+exports[`Gilded Rose Sulfuras, Hand of Ragnaros of quality 49 sellsIn 6 1`] = `
+Item {
+  "name": "Sulfuras, Hand of Ragnaros",
+  "quality": 49,
+  "sellIn": 6,
+}
+`;
+
+exports[`Gilded Rose Sulfuras, Hand of Ragnaros of quality 49 sellsIn 11 1`] = `
+Item {
+  "name": "Sulfuras, Hand of Ragnaros",
+  "quality": 49,
+  "sellIn": 11,
+}
+`;
+
+exports[`Gilded Rose Sulfuras, Hand of Ragnaros of quality 50 sellsIn -1 1`] = `
+Item {
+  "name": "Sulfuras, Hand of Ragnaros",
+  "quality": 50,
+  "sellIn": -1,
+}
+`;
+
+exports[`Gilded Rose Sulfuras, Hand of Ragnaros of quality 50 sellsIn 0 1`] = `
+Item {
+  "name": "Sulfuras, Hand of Ragnaros",
+  "quality": 50,
+  "sellIn": 0,
+}
+`;
+
+exports[`Gilded Rose Sulfuras, Hand of Ragnaros of quality 50 sellsIn 1 1`] = `
+Item {
+  "name": "Sulfuras, Hand of Ragnaros",
+  "quality": 50,
+  "sellIn": 1,
+}
+`;
+
+exports[`Gilded Rose Sulfuras, Hand of Ragnaros of quality 50 sellsIn 6 1`] = `
+Item {
+  "name": "Sulfuras, Hand of Ragnaros",
+  "quality": 50,
+  "sellIn": 6,
+}
+`;
+
+exports[`Gilded Rose Sulfuras, Hand of Ragnaros of quality 50 sellsIn 11 1`] = `
+Item {
+  "name": "Sulfuras, Hand of Ragnaros",
+  "quality": 50,
+  "sellIn": 11,
+}
+`;
+
+exports[`Gilded Rose foo of quality 0 sellsIn -1 1`] = `
+Item {
+  "name": "foo",
+  "quality": 0,
+  "sellIn": -2,
+}
+`;
+
+exports[`Gilded Rose foo of quality 0 sellsIn 0 1`] = `
+Item {
+  "name": "foo",
+  "quality": 0,
+  "sellIn": -1,
+}
+`;
+
+exports[`Gilded Rose foo of quality 0 sellsIn 1 1`] = `
+Item {
+  "name": "foo",
+  "quality": 0,
+  "sellIn": 0,
+}
+`;
+
+exports[`Gilded Rose foo of quality 0 sellsIn 6 1`] = `
+Item {
+  "name": "foo",
+  "quality": 0,
+  "sellIn": 5,
+}
+`;
+
+exports[`Gilded Rose foo of quality 0 sellsIn 11 1`] = `
+Item {
+  "name": "foo",
+  "quality": 0,
+  "sellIn": 10,
+}
+`;
+
+exports[`Gilded Rose foo of quality 1 sellsIn -1 1`] = `
+Item {
+  "name": "foo",
+  "quality": 0,
+  "sellIn": -2,
+}
+`;
+
+exports[`Gilded Rose foo of quality 1 sellsIn 0 1`] = `
+Item {
+  "name": "foo",
+  "quality": 0,
+  "sellIn": -1,
+}
+`;
+
+exports[`Gilded Rose foo of quality 1 sellsIn 1 1`] = `
+Item {
+  "name": "foo",
+  "quality": 0,
+  "sellIn": 0,
+}
+`;
+
+exports[`Gilded Rose foo of quality 1 sellsIn 6 1`] = `
+Item {
+  "name": "foo",
+  "quality": 0,
+  "sellIn": 5,
+}
+`;
+
+exports[`Gilded Rose foo of quality 1 sellsIn 11 1`] = `
+Item {
+  "name": "foo",
+  "quality": 0,
+  "sellIn": 10,
+}
+`;
+
+exports[`Gilded Rose foo of quality 49 sellsIn -1 1`] = `
+Item {
+  "name": "foo",
+  "quality": 47,
+  "sellIn": -2,
+}
+`;
+
+exports[`Gilded Rose foo of quality 49 sellsIn 0 1`] = `
+Item {
+  "name": "foo",
+  "quality": 47,
+  "sellIn": -1,
+}
+`;
+
+exports[`Gilded Rose foo of quality 49 sellsIn 1 1`] = `
+Item {
+  "name": "foo",
+  "quality": 48,
+  "sellIn": 0,
+}
+`;
+
+exports[`Gilded Rose foo of quality 49 sellsIn 6 1`] = `
+Item {
+  "name": "foo",
+  "quality": 48,
+  "sellIn": 5,
+}
+`;
+
+exports[`Gilded Rose foo of quality 49 sellsIn 11 1`] = `
+Item {
+  "name": "foo",
+  "quality": 48,
+  "sellIn": 10,
+}
+`;
+
+exports[`Gilded Rose foo of quality 50 sellsIn -1 1`] = `
+Item {
+  "name": "foo",
+  "quality": 48,
+  "sellIn": -2,
+}
+`;
+
+exports[`Gilded Rose foo of quality 50 sellsIn 0 1`] = `
+Item {
+  "name": "foo",
+  "quality": 48,
+  "sellIn": -1,
+}
+`;
+
+exports[`Gilded Rose foo of quality 50 sellsIn 1 1`] = `
+Item {
+  "name": "foo",
+  "quality": 49,
+  "sellIn": 0,
+}
+`;
+
+exports[`Gilded Rose foo of quality 50 sellsIn 6 1`] = `
+Item {
+  "name": "foo",
+  "quality": 49,
+  "sellIn": 5,
+}
+`;
+
+exports[`Gilded Rose foo of quality 50 sellsIn 11 1`] = `
+Item {
+  "name": "foo",
+  "quality": 49,
+  "sellIn": 10,
+}
+`;
